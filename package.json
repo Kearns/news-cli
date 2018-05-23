@@ -1,0 +1,17 @@
+{
+  "name": "news-cli",
+  "version": "1.0.0",
+  "description": "News feed to the CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrick Kearns",
+  "license": "ISC",
+  "dependencies": {
+    "my-google-news": "^3.0.0",
+    "opn": "^5.3.0",
+    "terminal-kit": "^1.17.5",
+    "yargs": "^11.0.0"
+  }
+}
